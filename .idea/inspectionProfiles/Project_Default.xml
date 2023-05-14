@@ -4,9 +4,7 @@
     <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredIdentifiers">
         <list>
-          <option value="float.append" />
-          <option value="todo.tasks.views.*" />
-          <option value="todo.forms.*" />
+          <option value="myapps1.views.Men" />
         </list>
       </option>
     </inspection_tool>
